@@ -1,4 +1,4 @@
-# CS50-MARIO-MORE
+# CS50-MARIO-MORE (PSET1 CS50 INTRODUCTION TO COMPUTER SCIENCE HARVARD)
 
 <strong>World 1-1</strong>
 
@@ -34,25 +34,25 @@ Here’s how the program might work if the user inputs 4 when prompted:
 $ ./mario
 Height: 4
 
-   #  #
-  ##  ##
- ###  ###
-####  ####
+      #  #
+     ##  ##
+    ###  ###
+   ####  ####
 
 Here’s how the program might work if the user inputs 2 when prompted:
 
 $ ./mario
 Height: 2
    
- #  #
-##  ##
+      #  #
+     ##  ##
 
 And here’s how the program might work if the user inputs 1 when prompted:
 
 $ ./mario
 Height: 1
 
-#  #
+      #  #
 
 If the user doesn’t, in fact, input a positive integer between 1 and 8, inclusive, when prompted, the program should re-prompt the user until they cooperate:
 
@@ -63,12 +63,14 @@ Height: 42
 Height: 50
 Height: 4
 
-   #  #
-  ##  ##
- ###  ###
-####  ####
+      #  #
+     ##  ##
+    ###  ###
+   ####  ####
 
 Notice that width of the “gap” between adjacent pyramids is equal to the width of two hashes, irrespective of the pyramids’ heights.
 
 Modify mario.c at right in such a way that it implements this program as described!
+
+Author: Andrés R. Bucheli.
 
