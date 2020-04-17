@@ -72,5 +72,10 @@ Notice that width of the “gap” between adjacent pyramids is equal to the wid
 
 Modify mario.c at right in such a way that it implements this program as described!
 
-Author: Andrés R. Bucheli.
+<strong>INSTRUCTIONS</strong>
+
+1. Download and unzip the repository folder.
+2. Open, compile and run the mariomore.c file to see the project.
+
+# Author: Andrés R. Bucheli.
 
