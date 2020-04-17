@@ -75,7 +75,7 @@ Modify mario.c at right in such a way that it implements this program as describ
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
-2. Open, compile and run the mariomore.c file to see the project.
+2. Open, compile and run the mariomore.c file in a C compiler to see the project.
 
 # Author: Andrés R. Bucheli.
 
