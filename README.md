@@ -1,5 +1,9 @@
 # CS50-MARIO-MORE (PSET1 CS50 INTRODUCTION TO COMPUTER SCIENCE HARVARD)
 
+## DISCLAIMER: This problem was originally created by Harvard University and the solution presented here is only one of the possible solutions to this problem.
+
+## DISCLAIMER: This repository was created for pedagogical and self-consultation purposes only. No one is recommended to copy the solution presented here because copying may lead to sanctions and violations of the CS50 rules of academic honesty.
+
 <strong>World 1-1</strong>
 
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks, per the below.
